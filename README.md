@@ -1,5 +1,7 @@
 # IPTV Kopen
 
+  ![IPTV Kopen](https://i.imgur.com/4mXkMir.png)
+
 IPTV biedt een nieuwe manier van televisiekijken via het internet. In plaats van de traditionele uitzendmethoden zoals satelliet of kabel, levert IPTV inhoud rechtstreeks via het internet. Dit betekent dat u toegang heeft tot een breder scala aan kanalen en inhoud, vaak met betere kwaliteit en meer gebruiksgemak.
 
 Belangrijke Kenmerken
